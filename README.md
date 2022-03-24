@@ -1,4 +1,4 @@
- exercice-Ordre-alphabetique--chakir
+exercice-Ordre-alphabetique--chakir
 // Methode 1 : utilisation de STRCMP
 //Pour comparer deux chaine de caractere on utilise la fonction 'strcmp' 
 
