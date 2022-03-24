@@ -12,7 +12,7 @@ int main (){
     gets(txt1);
     printf("donner le 2eme text ");
     gets(txt2);
-    if (strcmp(txt1,txt2)<0){    // on a utiliser '<' car la fonction strcmp(x1,x2) compare x2 par x1 pas l'inverse 
+    if (strcmp(txt1,txt2)<0){    
         printf("%s\n %s" , txt1 , txt2);
 }
 else
