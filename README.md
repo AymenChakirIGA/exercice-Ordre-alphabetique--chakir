@@ -1,4 +1,4 @@
-# exercice-Ordre-alphabetique--chakir
+ exercice-Ordre-alphabetique--chakir
 
 //Pour comparer deux chaine de caractere on utilise la fonction 'strcmp' 
 #include<stdio.h>
