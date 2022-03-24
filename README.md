@@ -38,13 +38,13 @@ int main(){
         int x = 0, y = 0;
         N = strlen(txt1);
         M =  strlen(txt2);
-        while (i<N && j<M){
+        while (i<=N && j<=M){
                
-               if (txt1[i]< txt2[j]){ // Jsp pour quoi mais si on fais txt1[i]< txt2[j] le programe va realiser corectement 
+               if (txt1[i]> txt2[j]){ 
                   x++;
                   break;          
           }
-              else if (txt1[i]> txt2[j]){
+              else if (txt1[i]< txt2[j]){
                    y++; 
                    break;
               }
